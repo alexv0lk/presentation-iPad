@@ -1,0 +1,7 @@
+.first-slide__h2-section-third{
+   display: flex;
+   flex-direction: row-reverse;
+   align-items: center;
+   height: 54px;
+   margin-right: 10px;
+}

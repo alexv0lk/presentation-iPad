@@ -1,0 +1,7 @@
+@import url(./_big/page-2016__bgr-pic_big.css);
+@import url(./_medium/page-2016__bgr-pic_medium.css);
+@import url(./_small/page-2016__bgr-pic_small.css);
+
+.page-2016__bgr-pic{
+    position: absolute;
+}

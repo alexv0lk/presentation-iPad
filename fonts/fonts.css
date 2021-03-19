@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('GothamPro.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('GothamPro-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

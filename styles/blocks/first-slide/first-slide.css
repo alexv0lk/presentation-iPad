@@ -1,0 +1,22 @@
+@import url(./__header1/first-slide__header1.css);
+@import url(./__header2/first-slide__header2.css);
+@import url(./__h2-container/first-slide__h2-container.css);
+@import url(./__h2-section-first/first-slide__h2-section-first.css);
+@import url(./__h2-section-second/first-slide__h2-section-second.css);
+@import url(./__h2-section-third/first-slide__h2-section-third.css);
+@import url(./__h2-section-fourth/first-slide__h2-section-fourth.css);
+@import url(./__animation/first-slide__animation.css);
+@import url(./__animation2/first-slide__animation2.css);
+@import url(./__circle-first/first-slide__circle-first.css);
+@import url(./__circle-second/first-slide__circle-second.css);
+@import url(./__circle-third/first-slide__circle-third.css);
+@import url(./__circle-fourth/first-slide__circle-fourth.css);
+@import url(./__border-image/first-slide__border-image.css);
+@import url(./__text-leaf/first-slide__text-leaf.css);
+@import url(./__leaf-down-container/first-slide__leaf-down-container.css);
+@import url(./__arrow-leaf/first-slide__arrow-leaf.css);
+
+
+.first-slide{
+    overflow:hidden;
+}

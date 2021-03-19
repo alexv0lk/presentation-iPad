@@ -1,0 +1,7 @@
+@import url(./__header2/second-slide__header2.css);
+
+.second-slide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

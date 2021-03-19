@@ -1,0 +1,11 @@
+@import url(./__third-page/third-slide__third-page.css);
+@import url(./__slider-container/third-slide__slider-container.css);
+@import url(./__slider/third-slide__slider.css);
+@import url(./__sliders-text/third-slide__sliders-text.css);
+@import url(./__text-container/third-slide__text-container.css);
+
+
+
+.third-slide{
+    position: relative;
+}

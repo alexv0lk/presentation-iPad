@@ -1,0 +1,10 @@
+@import url(./_second/first-slide__header2_second.css);
+
+.first-slide__header2{
+    font-family: 'Lato';
+    font-weight: normal;
+    color: #0d319c;
+    font-size: 20px;
+    margin: 0;
+}
+

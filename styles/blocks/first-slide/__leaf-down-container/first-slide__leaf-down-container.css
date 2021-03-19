@@ -1,0 +1,8 @@
+.first-slide__leaf-down-container{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 470px;
+    bottom: 1554px;
+}

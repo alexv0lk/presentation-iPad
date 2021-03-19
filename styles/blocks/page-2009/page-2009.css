@@ -1,0 +1,27 @@
+@import url(./__bgr-pic/page-2009__bgr-pic.css);
+@import url(./__header2/page-2009__header2.css);
+@import url(./__tab-image/page-2009__tab-image.css);
+
+.page-2009{
+    height: inherit;
+    position: relative;
+    
+    bottom: 768px;
+    /* transition: right .6s ease-in-out; */
+}
+
+
+.active{
+    left: 0;
+    transition: left .6s ease-in-out;
+}
+
+.not-active-on-right{
+    left: 1024px;
+    transition: left .6s ease-in-out;
+}
+
+.not-active-on-left{
+    left: -1024px;
+    transition: left .6s ease-in-out;
+}

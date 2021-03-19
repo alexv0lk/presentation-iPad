@@ -1,0 +1,11 @@
+@import url(./__bgr-pic/page-1988__bgr-pic.css);
+@import url(./__header2/page-1988__header2.css);
+@import url(./__tab-image/page-1988__tab-image.css);
+
+.page-1988{
+    height: inherit;
+    position: relative;
+    right: 100%;
+    bottom: 200%;
+}
+

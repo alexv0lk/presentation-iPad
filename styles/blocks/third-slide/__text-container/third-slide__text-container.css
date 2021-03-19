@@ -1,0 +1,5 @@
+.third-slide__text-container{
+    width: inherit;
+    display: flex;
+    justify-content: space-between;
+}

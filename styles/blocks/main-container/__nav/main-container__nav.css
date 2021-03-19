@@ -1,0 +1,9 @@
+.main-container__nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    height: 55px;
+    top: 353px;
+    right: 28px;
+}

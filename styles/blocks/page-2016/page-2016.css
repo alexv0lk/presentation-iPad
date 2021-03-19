@@ -1,0 +1,9 @@
+@import url(./__bgr-pic/page-2016__bgr-pic.css);
+@import url(./__header2/page-2016__header2.css);
+@import url(./__tab-image/page-2016__tab-image.css);
+
+.page-2016{
+    position: relative;
+    
+    height: inherit;
+}

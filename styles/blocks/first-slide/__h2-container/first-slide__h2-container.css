@@ -1,0 +1,8 @@
+.first-slide__h2-container{
+    display: grid;
+    grid-template-columns: 159px 182.5px 228px 111.5px;
+    
+    width: 680px;
+    height: 308px;
+    margin-left: 206px;
+}

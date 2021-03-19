@@ -1,0 +1,7 @@
+.first-slide__h2-section-second{
+    padding-top: 238px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+}

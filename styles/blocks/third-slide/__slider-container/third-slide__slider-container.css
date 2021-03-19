@@ -1,0 +1,14 @@
+.third-slide__slider-container{
+    position: absolute;
+    bottom: 29px;
+    left: 192px;
+    width: 645px;
+    height: 61px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+}

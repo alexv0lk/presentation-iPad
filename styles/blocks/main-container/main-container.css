@@ -1,0 +1,10 @@
+@import url(./__nav/main-container__nav.css);
+@import url(./__circle/main-container__circle.css);
+
+.main-container{
+    background-image: url(../../../images/main-container-image.png);
+    background-size: contain;
+    width: 1024px;
+    overflow: hidden;
+    position: relative;
+}

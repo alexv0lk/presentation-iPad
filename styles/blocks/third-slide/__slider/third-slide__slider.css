@@ -1,0 +1,22 @@
+.third-slide__slider{
+    width: 652px;
+    height: 12px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0% 1.5%, rgb(209,234,255)1.5% 96%,rgba(209,234,255, .3) 96% 98.5%,  rgba(0, 0, 0, 0) 98.5% 100%);
+    outline: none;
+    z-index: 10;
+   
+}
+
+.third-slide__slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 43px;
+    height: 56px;
+    background: url('../../../../images/handler.png');
+    
+
+}
+
+

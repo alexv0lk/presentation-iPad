@@ -1,0 +1,14 @@
+.first-slide__animation{
+    display: block;
+    border-radius: 50%;
+    background: radial-gradient(circle,rgba(205,131,73, .70),rgba(199,90,75, .75));
+    border: 1px solid rgba(207,46,56, 0);
+    opacity: 100%;
+    position: absolute;   
+}
+
+
+
+
+
+ 
